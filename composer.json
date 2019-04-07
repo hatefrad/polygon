@@ -1,0 +1,16 @@
+{
+    "require": {
+        "nikic/fast-route" : "*",
+        "symfony/http-foundation" : "*"
+    },
+    "require-dev": {
+  	    "mockery/mockery": "0.8.*",
+  	    "phpunit/phpunit": "6.1.*"
+    },
+  "autoload": 
+     {
+        "psr-4": {
+            "PolygonManager\\" : "app/"
+        }
+     }
+}
