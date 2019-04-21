@@ -1,6 +1,8 @@
 # polygon-manager
 Polygon Manager Project
 
+### TEST
+
 ## ARCHITECTURE
 
 This project consists of one controller (PolygonController) that receives requests for area and perimeter calculation.
